@@ -8,5 +8,6 @@ public class Main {
         System.out.println("3rd commit");
         System.out.println("fetch example");
         System.out.println("fetch merge example");
+        System.out.println("git pull example");
     }
 }
