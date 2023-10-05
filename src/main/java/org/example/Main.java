@@ -10,6 +10,5 @@ public class Main {
         System.out.println("fetch merge example");
         System.out.println("git pull example");
         System.out.println("git pull example - 2");
-        System.out.println("edit commit 1");
     }
 }
