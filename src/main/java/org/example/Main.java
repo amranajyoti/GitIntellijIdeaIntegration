@@ -11,5 +11,6 @@ public class Main {
         System.out.println("git pull example");
         System.out.println("git pull example - 2");
         System.out.println("reset branch commit -1");
+        System.out.println("mergr confict in remote");
     }
 }
