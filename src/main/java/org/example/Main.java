@@ -15,7 +15,7 @@ public class Main {
         System.out.println("mergr confict in local 2");
         System.out.println("mergr confict in local");
          System.out.println("mergr confict in remote 2");
-        System.out.println("1st commit in ur");
+        System.out.println("1st commit in log in confict");
 
     }
 }
