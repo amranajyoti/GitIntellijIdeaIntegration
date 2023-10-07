@@ -20,6 +20,7 @@ public class Main {
         //iuigfdfg
         //string login
 
+        //string master;
 
     }
 }
