@@ -18,6 +18,7 @@ public class Main {
         System.out.println("1st commit in log in confict");
         //cdfdhg
         //iuigfdfg
+        //string login
 
 
     }
